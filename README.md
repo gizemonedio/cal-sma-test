@@ -1,0 +1,2 @@
+# cal-sma-test
+uygulama
